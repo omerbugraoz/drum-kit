@@ -2,4 +2,4 @@
 
 Basic drum kit made out in JavaScript.
 
-This site was built using [GitHub Pages](https://omerbugraoz.github.io/drum-kit/)
+[drum kit site](https://omerbugraoz.github.io/drum-kit/)
